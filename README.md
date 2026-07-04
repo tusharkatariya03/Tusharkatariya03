@@ -58,9 +58,11 @@ A modern real-time chat application featuring random chat functionality.
 
 ## 🏆 Achievements
 
-- Olympiad Rank 1 (Class 9)
-- Internship at CSIR-CEERI, Pilani
-- IIT Bombay Certificate Courses in Python and Java
+- 🥉 3rd Place – Team Hackathon, New Delhi
+- 💼 Internship – CSIR-CEERI, Pilani
+- 🤝 Contributed to NGO website development for animal welfare initiatives
+- 🥇 Olympiad Rank 1 (Class 9)
+- 🎓 IIT Bombay Certificate Courses – Python & Java
 
 ---
 
