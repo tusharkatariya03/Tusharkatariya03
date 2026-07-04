@@ -2,7 +2,7 @@
 
 Information Technology student at BKBIET Pilani with a strong interest in **Full Stack Development, Artificial Intelligence, and Cybersecurity**.
 
-I enjoy building practical software, exploring modern technologies, and solving real-world engineering problems through software development.
+Passionate about building scalable web applications and AI-powered software that solve real-world problems.
 
 ---
 
