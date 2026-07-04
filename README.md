@@ -1,43 +1,85 @@
-# 👋 Hi, I'm Tushar Katariya  
+# Tushar Saini
 
-✨ *Trying to be a progressive man <br> Learnings || Hustling* ✨  
+Information Technology student at BKBIET Pilani with interests in software engineering, full stack development, artificial intelligence, and cybersecurity.
 
----
-
-## 🌱 About Me
-- 🔭 Currently exploring **Python, Java, Web Development, AI**  
-- 🚀 Interests: **Artificial Intelligence, Web Development, Cloud Computing, Cybersecurity, Blockchain**  
-- 🎯 Goal: To become a skilled developer and contribute to impactful projects  
-- 💡 i know that **consistency + hustle = growth**  
+I enjoy building practical software and solving real-world engineering problems through technology.
 
 ---
 
-## 🛠️ Tech Skills
-- **Languages**: Python, Java, C/C++ (Learning)  
-- **Web**: HTML, CSS, JavaScript, React (Learning)  
-- **AI / ML**: Basics of AI, exploring ML & Deep Learning  
-- **Future Skills**: Cloud, DevOps, Cybersecurity, Data Science  
+## Education
+
+**Bachelor of Technology (Information Technology)**  
+BKBIET Pilani, Rajasthan, India
 
 ---
 
-## 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharkatariya03&show_icons=true&theme=tokyonight)  
+## Experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkatariya03&layout=compact&theme=tokyonight)
+### CSIR – Central Electronics Engineering Research Institute (CSIR-CEERI), Pilani
+**Intern**
 
----
+- Worked on Automatic Number Plate Detection using YOLO and OCR.
+- Built computer vision pipelines for vehicle number plate recognition.
 
-## 🚀 Projects
-- 🔹 **TalkNest** – A real-time chat app with modern features *
-- 🔹 More projects coming soon... stay tuned!  
+### Cybersecurity Project
 
----
-
-## 🌐 Connect with Me
-- 📧 Email: [tusharkatariya0325@gmail.com](mailto:tusharkatariya0325@gmail.com)  
-- 💼 LinkedIn: [Tushar Katariya](https://www.linkedin.com/in/tushar-katariya-aa51752a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📸 Instagram: [@tusharkataria05](https://www.instagram.com/tusharkataria05?utm_source=qr&igsh=MTg4dnR3YjlrNjNocg==)  
+- Worked with a cybersecurity team based in Bengaluru for approximately six months.
+- Gained practical exposure to security-focused software development.
 
 ---
 
-✨ _“Consistency beats intensity – One green square at a time!”_ ✨
+## Projects
+
+### Automatic Number Plate Detection with OCR
+
+Computer Vision project developed during internship at CSIR-CEERI.
+
+**Technologies**
+- Python
+- YOLO
+- OCR
+- OpenCV
+
+### TalkNest
+
+Real-time chat application with random matching functionality.
+
+---
+
+## Achievements
+
+- Olympiad Rank 1 (Class 9)
+- Internship at CSIR-CEERI, Pilani
+- IIT Bombay Certificate Courses in Python and Java
+
+---
+
+## Technical Skills
+
+### Languages
+- Java
+- Python
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## Areas of Interest
+
+- Software Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Cybersecurity
+
+---
+
+## Contact
+
+**Email**  
+**tusharkatariya0325@gmail.com**
+
+**LinkedIn**  
+Tushar Katariya
