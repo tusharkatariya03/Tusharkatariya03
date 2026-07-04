@@ -44,6 +44,7 @@ Computer Vision project developed during internship at CSIR-CEERI.
 
 Real-time chat application with random matching functionality.
 
+
 ---
 
 ## Achievements
@@ -58,7 +59,8 @@ Real-time chat application with random matching functionality.
 
 ### Languages
 - Java
-- Python
+- python
+- c++ (intermediate)
 
 ### Tools
 - Git
