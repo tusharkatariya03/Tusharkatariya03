@@ -1,37 +1,37 @@
 # Tushar Saini
 
-Information Technology student at BKBIET Pilani with interests in software engineering, full stack development, artificial intelligence, and cybersecurity.
+Information Technology student at BKBIET Pilani with a strong interest in **Full Stack Development, Artificial Intelligence, and Cybersecurity**.
 
-I enjoy building practical software and solving real-world engineering problems through technology.
+I enjoy building practical software, exploring modern technologies, and solving real-world engineering problems through software development.
 
 ---
 
-## Education
+## 🎓 Education
 
 **Bachelor of Technology (Information Technology)**  
 BKBIET Pilani, Rajasthan, India
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### CSIR – Central Electronics Engineering Research Institute (CSIR-CEERI), Pilani
 **Intern**
 
 - Worked on Automatic Number Plate Detection using YOLO and OCR.
 - Built computer vision pipelines for vehicle number plate recognition.
+- Gained hands-on experience in AI-based image processing.
 
 ### Cybersecurity Project
 
 - Worked with a cybersecurity team based in Bengaluru for approximately six months.
-- Gained practical exposure to security-focused software development.
+- Gained practical exposure to security-focused software development and industry workflows.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Automatic Number Plate Detection with OCR
-
 Computer Vision project developed during internship at CSIR-CEERI.
 
 **Technologies**
@@ -40,14 +40,23 @@ Computer Vision project developed during internship at CSIR-CEERI.
 - OCR
 - OpenCV
 
-### TalkNest
+---
 
-Real-time chat application with random matching functionality.
+### TalkNest *(In Development)*
 
+A modern real-time chat application featuring random chat functionality.
+
+**Planned Technologies**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 - Olympiad Rank 1 (Class 9)
 - Internship at CSIR-CEERI, Pilani
@@ -55,33 +64,86 @@ Real-time chat application with random matching functionality.
 
 ---
 
-## Technical Skills
+# 💻 Tech Stack
 
 ### Languages
+
 - Java
-- python
-- c++ (intermediate)
+- Python
+- c++(intermediate
+
+### Frontend *(Learning)*
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend *(Learning)*
+
+- Node.js
+- Express.js
+
+### Database *(Learning)*
+
+- MySQL
+- MongoDB
+
+### AI & Computer Vision
+
+- YOLO
+- OCR
+- OpenCV
 
 ### Tools
+
 - Git
 - GitHub
 - Visual Studio Code
 
 ---
 
-## Areas of Interest
+## 🎯 Focus Areas
 
-- Software Engineering
 - Full Stack Development
 - Artificial Intelligence
 - Cybersecurity
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
-**Email**  
-**tusharkatariya0325@gmail.com**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkatariya03&show_icons=true&theme=github_dark)
 
-**LinkedIn**  
-Tushar Katariya
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkatariya03&layout=compact&theme=github_dark)
+
+---
+
+## 📌 Future Projects
+
+- Full Stack E-Commerce Platform
+- Expense Tracker
+- AI Resume Analyzer
+- AI Interview Assistant
+- Portfolio Website
+- Blog Platform
+- Task Management System
+- Weather Application
+- URL Shortener
+- File Sharing Application
+
+---
+
+## 📫 Connect With Me
+
+**Email**
+
+tusharkatariya0325@gmail.com
+
+**LinkedIn**
+
+https://www.linkedin.com/in/tushar-katariya
+
+**GitHub**
+
+https://github.com/tusharkatariya03
