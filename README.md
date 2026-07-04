@@ -113,9 +113,9 @@ A modern real-time chat application featuring random chat functionality.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkatariya03&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tusharkatariya03&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkatariya03&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharkatariya03&layout=compact&theme=github_dark)
 
 ---
 
