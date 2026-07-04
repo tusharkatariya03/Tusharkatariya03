@@ -70,7 +70,7 @@ A modern real-time chat application featuring random chat functionality.
 
 - Java
 - Python
-- c++(intermediate
+- c++(intermediate)
 
 ### Frontend *(Learning)*
 
