@@ -72,19 +72,19 @@ A modern real-time chat application featuring random chat functionality.
 - Python
 - c++(intermediate)
 
-### Frontend *(Learning)*
+### Frontend 
 
 - HTML
 - CSS
 - JavaScript
 - React
 
-### Backend *(Learning)*
+### Backend 
 
 - Node.js
 - Express.js
 
-### Database *(Learning)*
+### Database 
 
 - MySQL
 - MongoDB
